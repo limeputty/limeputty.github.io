@@ -2,11 +2,9 @@ body {
   background-color: powderblue;
 }
 h1 {
-  text-align: center;
+  color: black;
 }
 p {
-  text-align: center;
+  color: blue
 }
-img {
-  text-align: center;
-}
+
